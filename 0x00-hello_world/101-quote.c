@@ -1,6 +1,8 @@
 #include<stdio.h>
+#include<unistd.h>
 /**
- * main - printing without using pussh or printf
+ * main - printing without using pussh or print
+ *
  * Return: 1 (success)
  */
 int main(void)
