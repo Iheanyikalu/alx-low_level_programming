@@ -5,8 +5,7 @@
  * @c: parameter*
  * return: 1 if its a number 0 otherwise
  */
-
-int _isdigit(int ci)
+int _isdigit(int c)
 {
 	if (c >= 48 && c <= 57)
 	{
