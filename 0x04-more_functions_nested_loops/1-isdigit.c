@@ -2,8 +2,8 @@
 /**
  * _isdigit - to check if paramaete is a digit or character
  *
- * @c: parameter*
- * return: 1 if its a number 0 otherwise
+ * @c: parameter
+ * Return: (1) if its a number 0 otherwise
  */
 int _isdigit(int c)
 {
