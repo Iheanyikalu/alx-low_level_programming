@@ -2,6 +2,7 @@
 /**
  * more_numbers - this would print 0 to 14 10 times
  *
+ * Return: 0 success
  */
 void more_numbers(void)
 {
@@ -19,4 +20,5 @@ void more_numbers(void)
 		}
 		_putchar('\n');
 	}
+	return (0)
 }
