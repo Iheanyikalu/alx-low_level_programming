@@ -1,3 +1,5 @@
+#include <stdlib.h>
+#include <stdio.h>
 #include <time.h>
 /**
  * main - generate numbers randomly to detect positive or negative
