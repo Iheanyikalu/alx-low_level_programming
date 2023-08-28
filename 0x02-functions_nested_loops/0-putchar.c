@@ -2,7 +2,7 @@
 /**
  * main - a programme to print putchar
  *
- * return: 0 (sucess)
+ * Return: 0 (sucess)
  *
  */
 int main(void)
@@ -12,8 +12,9 @@ int main(void)
 
 	for (i = 0; i <= 7; i++)
 	{
-		_putchar(c[i]);
+		 putchar(c[i]);
 	}
 	putchar('\n');
+
 	return (0);
 }
